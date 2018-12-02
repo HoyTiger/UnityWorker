@@ -37,7 +37,7 @@ Nowadays smartphones are getting faster and more powerful. Maybe thought for gam
 Most high-end devices carry Snapdragon 835 and similar processors. Look at that beautiful Adreno 540 GPU waiting on your smartphone to do incredible things. 
 ![snapdragon_835](https://github.com/OpenMined/OpenMined/blob/master/images/WhyUnity/snapdragon_835.png)
 
-Or even better! Smartphones has become the first devices that have **neural dedicated processors**. The new Kirin 970 mounted in the Huawei Mate 10 is an example of that.
+Or even better! Smartphones have become the first devices that have **neural dedicated processors**. The new Kirin 970 mounted in the Huawei Mate 10 is an example of that.
 ![kirin_970](https://github.com/OpenMined/OpenMined/blob/master/images/WhyUnity/kirin_970.PNG)
 
 #### iOS
