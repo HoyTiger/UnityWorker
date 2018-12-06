@@ -1,4 +1,4 @@
-OpenMined Unity Application
+DEPRECATED
 =============================================
 
 [![Build Status](https://travis-ci.org/OpenMined/OpenMined.svg?branch=master)](https://travis-ci.org/OpenMined/OpenMined)
